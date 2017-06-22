@@ -14,9 +14,17 @@ Make header and source file.
 Referece this project
 ```
 
-
+Edit js file
+```
+Reference this project
+```
 
 Edit plugin.xml
 ```
 Referece this project
+```
+
+Use custom cordova plugin in Ionic2 project
+```
+(<any>window).myPlugin.test();
 ```
